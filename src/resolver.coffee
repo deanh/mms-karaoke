@@ -2,7 +2,6 @@ async = require 'async'
 rest  = require 'restler'
 util  = require('openaura-api').util
 _     = require 'lodash'
-#VXGS9RGQYRGB7OUGE
 
 parseTrack = (rawPost) ->
   rawPost.track
